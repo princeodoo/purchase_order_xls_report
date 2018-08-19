@@ -7,7 +7,6 @@
         Prints Excel Report based on purchase order status and vendor.
         ''',
     'author': 'Prince',
-    'license': "OPL-1",
     'depends': [
         'purchase'
     ],
